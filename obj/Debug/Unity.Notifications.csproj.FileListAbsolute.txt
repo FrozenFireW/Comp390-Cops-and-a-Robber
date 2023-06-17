@@ -1,0 +1,2 @@
+C:\Users\11022\Try\obj\Debug\Unity.Notifications.csproj.AssemblyReference.cache
+C:\Users\11022\Try\obj\Debug\Unity.Notifications.csproj.CoreCompileInputs.cache

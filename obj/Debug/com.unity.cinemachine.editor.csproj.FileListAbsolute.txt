@@ -1,0 +1,2 @@
+C:\Users\11022\Try\obj\Debug\com.unity.cinemachine.editor.csproj.AssemblyReference.cache
+C:\Users\11022\Try\obj\Debug\com.unity.cinemachine.editor.csproj.CoreCompileInputs.cache

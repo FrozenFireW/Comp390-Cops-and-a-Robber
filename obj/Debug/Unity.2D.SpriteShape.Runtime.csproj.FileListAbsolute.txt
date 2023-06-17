@@ -1,0 +1,2 @@
+C:\Users\11022\Try\obj\Debug\Unity.2D.SpriteShape.Runtime.csproj.AssemblyReference.cache
+C:\Users\11022\Try\obj\Debug\Unity.2D.SpriteShape.Runtime.csproj.CoreCompileInputs.cache

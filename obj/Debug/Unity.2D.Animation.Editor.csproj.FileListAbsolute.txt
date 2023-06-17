@@ -1,0 +1,2 @@
+C:\Users\11022\Try\obj\Debug\Unity.2D.Animation.Editor.csproj.AssemblyReference.cache
+C:\Users\11022\Try\obj\Debug\Unity.2D.Animation.Editor.csproj.CoreCompileInputs.cache
