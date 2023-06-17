@@ -2,10 +2,15 @@
  Cops and a Robber(Mobile game app) - independent development
 ## Project Manual
 First you need to download and install the Unity Hub (if you don't have one), then download an Editor.
-![image](https://github.com/FrozenFireW/Cops-and-a-Robber/assets/94864122/116864f9-ca78-43cb-8cca-4911bdd18086)
+![image](https://github.com/FrozenFireW/Comp390-Cops-and-a-Robber/assets/94864122/3d855cd9-e4d7-48bd-ab80-2378c0100bc9)
+
 
 Then click "OPEN" to find the decompressed "COMP390 folder" and click "OPEN" to start this project.
-![image](https://github.com/FrozenFireW/Cops-and-a-Robber/assets/94864122/d628cb6e-f2b7-4205-9155-34afc6100a9b)
+![image](https://github.com/FrozenFireW/Comp390-Cops-and-a-Robber/assets/94864122/882ed43f-e905-4d03-b16d-f6f7f71e3ca3)
 
-![image](https://github.com/FrozenFireW/Cops-and-a-Robber/assets/94864122/edd0f028-cc42-48d3-b218-e7f19abdae4b)
+
+![image](https://github.com/FrozenFireW/Comp390-Cops-and-a-Robber/assets/94864122/920c3f7e-51eb-4967-826b-5fa135c36cf5)
+
 The main script files are located in the “script” folder.
+
+The APK.flie “COMP390.APK” from” COMP390.zip”is an Android software installation package, you can install this project on android devices.
