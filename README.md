@@ -13,4 +13,4 @@ Then click "OPEN" to find the decompressed "COMP390 folder" and click "OPEN" to 
 
 The main script files are located in the “script” folder.
 
-The APK.flie “COMP390.APK” from” COMP390.zip”is an Android software installation package, you can install this project on android devices.
+The APK.flie “COMP390.APK” is an Android software installation package, you can install this project on android devices.
