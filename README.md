@@ -10,11 +10,10 @@ This article provides interesting game play and A stable and complex game system
 implementation different game module, such as using AI behaviour tree and A * pathfinding
 algorithm design of the enemy AI, design the object pool to save the memory consumption,
 optimized the game performance, implement rich interactive content for the playercontrolled characters, so as to realize a very playability mobile games.
+
 Furthermore, a decent GUI was designed and implemented to improve the gaming
 experience of players. 
 
-Finally, the features of the game were tested, and testers were
-invited to test the game app and comment on it.
 
 ## Project Manual
 First you need to download and install the Unity Hub (if you don't have one), then download an Editor.
