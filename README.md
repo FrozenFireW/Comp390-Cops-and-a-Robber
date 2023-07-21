@@ -12,8 +12,10 @@ algorithm design of the enemy AI, design the object pool to save the memory cons
 optimized the game performance, implement rich interactive content for the playercontrolled characters, so as to realize a very playability mobile games.
 Furthermore, a decent GUI was designed and implemented to improve the gaming
 experience of players. 
+
 Finally, the features of the game were tested, and testers were
 invited to test the game app and comment on it.
+
 ## Project Manual
 First you need to download and install the Unity Hub (if you don't have one), then download an Editor.
 ![image](https://github.com/FrozenFireW/Comp390-Cops-and-a-Robber/assets/94864122/3d855cd9-e4d7-48bd-ab80-2378c0100bc9)
